@@ -1,6 +1,8 @@
 获取 id 教程：
 https://www.youtube.com/watch?v=AX61w4Ve3B8
+
 修改 user_ids.txt，一行一个 id
+
 修改 proxy_list.txt，单 ip 这个不用修改
 
 开始运行：

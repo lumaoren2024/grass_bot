@@ -4,14 +4,14 @@
 #### F12 / Inspect.
 #### Go to Console.
 #### Type: localStorage.getItem('userId') and press Enter.
-#### Replace 'your_user_id_here' in run.py with your UserID.
+#### Replace 'your_user_id_here' in user_ids.txt with your UserID.
 
 ### 获取用户 ID
 #### https://app.getgrass.io/dashboard (登录)。
 #### F12 / 检查。
 #### 转到控制台。
 #### 键入：localStorage.getItem('userId') 并按 Enter。
-#### 将 run.py 中的“your_user_id_here”替换为您的用户 ID。
+#### 将 user_ids.txt 中的“your_user_id_here”替换为您的用户 ID。
 
 视频教程获取：
 https://www.youtube.com/watch?v=AX61w4Ve3B8
